@@ -2,4 +2,4 @@
 
 ### Visualization
 
-![](demo.mov)
+![](Rover_tableau.png)
